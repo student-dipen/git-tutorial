@@ -26,4 +26,5 @@ int main()
     cin >> num;
 
     cout << isPrime(num);
+    return 0;
 }
