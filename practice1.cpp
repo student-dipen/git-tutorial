@@ -12,4 +12,5 @@ int main(){
     cin>>num;
 
     cout<<fibonacci(num);
+    return 0;
 }
